@@ -1,0 +1,541 @@
+[
+    {
+        "declared": {
+            "group_id": "org.apache.xmlgraphics",
+            "artifact_id": "batik-svggen",
+            "package": "jar",
+            "version": "1.11"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.xmlgraphics%20AND%20a:batik-svggen%20AND%20p:jar&wt=json",
+        "latest_version": "1.12",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.xmlgraphics",
+            "artifact_id": "batik-svg-dom",
+            "package": "jar",
+            "version": "1.11"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.xmlgraphics%20AND%20a:batik-svg-dom%20AND%20p:jar&wt=json",
+        "latest_version": "1.12",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.xmlgraphics",
+            "artifact_id": "batik-transcoder",
+            "package": "jar",
+            "version": "1.11"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.xmlgraphics%20AND%20a:batik-transcoder%20AND%20p:jar&wt=json",
+        "latest_version": "1.12",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "com.att.eelf",
+            "artifact_id": "eelf-core",
+            "package": "jar",
+            "version": "1.0.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:com.att.eelf%20AND%20a:eelf-core%20AND%20p:jar&wt=json",
+        "latest_version": "2.0.0-oss",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.codehaus.janino",
+            "artifact_id": "janino",
+            "package": "jar",
+            "version": "3.0.8"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.codehaus.janino%20AND%20a:janino%20AND%20p:jar&wt=json",
+        "latest_version": "3.1.0",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.tomcat.embed",
+            "artifact_id": "tomcat-embed-core",
+            "package": "jar",
+            "version": "9.0.27"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.tomcat.embed%20AND%20a:tomcat-embed-core%20AND%20p:jar&wt=json",
+        "latest_version": "9.0.30",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.tomcat.embed",
+            "artifact_id": "tomcat-embed-el",
+            "package": "jar",
+            "version": "9.0.27"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.tomcat.embed%20AND%20a:tomcat-embed-el%20AND%20p:jar&wt=json",
+        "latest_version": "9.0.30",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.tomcat.embed",
+            "artifact_id": "tomcat-embed-websocket",
+            "package": "jar",
+            "version": "9.0.27"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.tomcat.embed%20AND%20a:tomcat-embed-websocket%20AND%20p:jar&wt=json",
+        "latest_version": "9.0.30",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.tomcat",
+            "artifact_id": "tomcat-annotations-api",
+            "package": "jar",
+            "version": "9.0.27"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.tomcat%20AND%20a:tomcat-annotations-api%20AND%20p:jar&wt=json",
+        "latest_version": "9.0.30",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.camel",
+            "artifact_id": "camel-http4-starter",
+            "package": "jar",
+            "version": "2.24.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.camel%20AND%20a:camel-http4-starter%20AND%20p:jar&wt=json",
+        "latest_version": "3.0.0-M4",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.camel",
+            "artifact_id": "camel-spring-boot-starter",
+            "package": "jar",
+            "version": "2.24.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.camel%20AND%20a:camel-spring-boot-starter%20AND%20p:jar&wt=json",
+        "latest_version": "3.0.0-RC3",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.camel",
+            "artifact_id": "camel-jaxb-starter",
+            "package": "jar",
+            "version": "2.24.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.camel%20AND%20a:camel-jaxb-starter%20AND%20p:jar&wt=json",
+        "latest_version": "3.0.0-RC3",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.camel",
+            "artifact_id": "camel-servlet-starter",
+            "package": "jar",
+            "version": "2.24.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.camel%20AND%20a:camel-servlet-starter%20AND%20p:jar&wt=json",
+        "latest_version": "3.0.0-RC3",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.camel",
+            "artifact_id": "camel-gson-starter",
+            "package": "jar",
+            "version": "2.24.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.camel%20AND%20a:camel-gson-starter%20AND%20p:jar&wt=json",
+        "latest_version": "3.0.0-RC3",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.camel",
+            "artifact_id": "camel-swagger-java-starter",
+            "package": "jar",
+            "version": "2.24.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.camel%20AND%20a:camel-swagger-java-starter%20AND%20p:jar&wt=json",
+        "latest_version": "3.0.0-RC3",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "javax.xml.bind",
+            "artifact_id": "jaxb-api",
+            "package": "jar",
+            "version": "2.3.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:javax.xml.bind%20AND%20a:jaxb-api%20AND%20p:jar&wt=json",
+        "latest_version": "2.4.0-b180830.0359",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.glassfish.jersey.core",
+            "artifact_id": "jersey-common",
+            "package": "jar",
+            "version": "2.27"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.glassfish.jersey.core%20AND%20a:jersey-common%20AND%20p:jar&wt=json",
+        "latest_version": "2.30",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework.boot",
+            "artifact_id": "spring-boot-starter-web",
+            "package": "jar",
+            "version": "2.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework.boot%20AND%20a:spring-boot-starter-web%20AND%20p:jar&wt=json",
+        "latest_version": "2.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework.boot",
+            "artifact_id": "spring-boot-starter-tomcat",
+            "package": "jar",
+            "version": "2.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework.boot%20AND%20a:spring-boot-starter-tomcat%20AND%20p:jar&wt=json",
+        "latest_version": "2.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework",
+            "artifact_id": "spring-jdbc",
+            "package": "jar",
+            "version": "5.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework%20AND%20a:spring-jdbc%20AND%20p:jar&wt=json",
+        "latest_version": "5.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework.boot",
+            "artifact_id": "spring-boot-starter-security",
+            "package": "jar",
+            "version": "2.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework.boot%20AND%20a:spring-boot-starter-security%20AND%20p:jar&wt=json",
+        "latest_version": "2.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework.boot",
+            "artifact_id": "spring-boot-autoconfigure",
+            "package": "jar",
+            "version": "2.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework.boot%20AND%20a:spring-boot-autoconfigure%20AND%20p:jar&wt=json",
+        "latest_version": "2.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework.boot",
+            "artifact_id": "spring-boot-starter-test",
+            "package": "jar",
+            "version": "2.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework.boot%20AND%20a:spring-boot-starter-test%20AND%20p:jar&wt=json",
+        "latest_version": "2.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.springframework.boot",
+            "artifact_id": "spring-boot-starter-data-jpa",
+            "package": "jar",
+            "version": "2.2.0.RELEASE"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.springframework.boot%20AND%20a:spring-boot-starter-data-jpa%20AND%20p:jar&wt=json",
+        "latest_version": "2.2.3.RELEASE",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.onap.aaf.authz",
+            "artifact_id": "aaf-cadi-aaf",
+            "package": "jar",
+            "version": "2.1.15"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.onap.aaf.authz%20AND%20a:aaf-cadi-aaf%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "ch.qos.logback",
+            "artifact_id": "logback-core",
+            "package": "jar",
+            "version": "1.2.3"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:ch.qos.logback%20AND%20a:logback-core%20AND%20p:jar&wt=json",
+        "latest_version": "1.3.0-alpha5",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "ch.qos.logback",
+            "artifact_id": "logback-classic",
+            "package": "jar",
+            "version": "1.2.3"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:ch.qos.logback%20AND%20a:logback-classic%20AND%20p:jar&wt=json",
+        "latest_version": "1.3.0-alpha5",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "commons-dbcp",
+            "artifact_id": "commons-dbcp",
+            "package": "jar",
+            "version": "1.4"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:commons-dbcp%20AND%20a:commons-dbcp%20AND%20p:jar&wt=json",
+        "latest_version": "20030825.184428",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "commons-io",
+            "artifact_id": "commons-io",
+            "package": "jar",
+            "version": "2.6"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:commons-io%20AND%20a:commons-io%20AND%20p:jar&wt=json",
+        "latest_version": "20030203.000550",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "com.googlecode.json-simple",
+            "artifact_id": "json-simple",
+            "package": "jar",
+            "version": "1.1.1"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:com.googlecode.json-simple%20AND%20a:json-simple%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.commons",
+            "artifact_id": "commons-vfs2",
+            "package": "jar",
+            "version": "2.2"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.commons%20AND%20a:commons-vfs2%20AND%20p:jar&wt=json",
+        "latest_version": "2.6.0",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "joda-time",
+            "artifact_id": "joda-time",
+            "package": "jar",
+            "version": "2.10.4"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:joda-time%20AND%20a:joda-time%20AND%20p:jar&wt=json",
+        "latest_version": "2.10.5",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.slf4j",
+            "artifact_id": "slf4j-api",
+            "package": "jar",
+            "version": "1.7.28"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.slf4j%20AND%20a:slf4j-api%20AND%20p:jar&wt=json",
+        "latest_version": "2.0.0-alpha1",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "javax.ws.rs",
+            "artifact_id": "javax.ws.rs-api",
+            "package": "jar",
+            "version": "2.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:javax.ws.rs%20AND%20a:javax.ws.rs-api%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "junit",
+            "artifact_id": "junit",
+            "package": "jar",
+            "version": "4.12"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:junit%20AND%20a:junit%20AND%20p:jar&wt=json",
+        "latest_version": "4.13",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "javax.transaction",
+            "artifact_id": "jta",
+            "package": "jar",
+            "version": "1.1"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:javax.transaction%20AND%20a:jta%20AND%20p:jar&wt=json",
+        "latest_version": "1.1",
+        "is_latest": true
+    },
+    {
+        "declared": {
+            "group_id": "javax.persistence",
+            "artifact_id": "persistence-api",
+            "package": "jar",
+            "version": "1.0.2"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:javax.persistence%20AND%20a:persistence-api%20AND%20p:jar&wt=json",
+        "latest_version": "1.0.2",
+        "is_latest": true
+    },
+    {
+        "declared": {
+            "group_id": "org.apache.commons",
+            "artifact_id": "commons-csv",
+            "package": "jar",
+            "version": "1.3"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.apache.commons%20AND%20a:commons-csv%20AND%20p:jar&wt=json",
+        "latest_version": "1.7",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.codehaus.plexus",
+            "artifact_id": "plexus-utils",
+            "package": "jar",
+            "version": "3.0.24"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.codehaus.plexus%20AND%20a:plexus-utils%20AND%20p:jar&wt=json",
+        "latest_version": "3.3.0",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.jboss.spec.javax.ws.rs",
+            "artifact_id": "jboss-jaxrs-api_2.0_spec",
+            "package": "jar",
+            "version": "1.0.1.Final"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.jboss.spec.javax.ws.rs%20AND%20a:jboss-jaxrs-api_2.0_spec%20AND%20p:jar&wt=json",
+        "latest_version": "1.0.1.Final",
+        "is_latest": true
+    },
+    {
+        "declared": {
+            "group_id": "com.google.guava",
+            "artifact_id": "guava",
+            "package": "jar",
+            "version": "27.0-jre"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:com.google.guava%20AND%20a:guava%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "commons-codec",
+            "artifact_id": "commons-codec",
+            "package": "jar",
+            "version": "1.13"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:commons-codec%20AND%20a:commons-codec%20AND%20p:jar&wt=json",
+        "latest_version": "20041127.091804",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.mariadb.jdbc",
+            "artifact_id": "mariadb-java-client",
+            "package": "jar",
+            "version": "2.2.1"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.mariadb.jdbc%20AND%20a:mariadb-java-client%20AND%20p:jar&wt=json",
+        "latest_version": "2.5.3",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.onap.sdc.sdc-distribution-client",
+            "artifact_id": "sdc-distribution-client",
+            "package": "jar",
+            "version": "1.3.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.onap.sdc.sdc-distribution-client%20AND%20a:sdc-distribution-client%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "org.onap.sdc.sdc-tosca",
+            "artifact_id": "sdc-tosca",
+            "package": "jar",
+            "version": "1.5.1"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.onap.sdc.sdc-tosca%20AND%20a:sdc-tosca%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "org.assertj",
+            "artifact_id": "assertj-core",
+            "package": "jar",
+            "version": "3.10.0"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.assertj%20AND%20a:assertj-core%20AND%20p:jar&wt=json",
+        "latest_version": "unknown",
+        "error": "component not found in maven database"
+    },
+    {
+        "declared": {
+            "group_id": "org.mockito",
+            "artifact_id": "mockito-core",
+            "package": "jar",
+            "version": "2.28.2"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.mockito%20AND%20a:mockito-core%20AND%20p:jar&wt=json",
+        "latest_version": "3.2.4",
+        "is_latest": false
+    },
+    {
+        "declared": {
+            "group_id": "org.powermock",
+            "artifact_id": "powermock-api-mockito2",
+            "package": "jar",
+            "version": "2.0.4"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.powermock%20AND%20a:powermock-api-mockito2%20AND%20p:jar&wt=json",
+        "latest_version": "2.0.4",
+        "is_latest": true
+    },
+    {
+        "declared": {
+            "group_id": "org.powermock",
+            "artifact_id": "powermock-module-junit4",
+            "package": "jar",
+            "version": "2.0.4"
+        },
+        "uri": "https://search.maven.org/solrsearch/select?q=g:org.powermock%20AND%20a:powermock-module-junit4%20AND%20p:jar&wt=json",
+        "latest_version": "2.0.4",
+        "is_latest": true
+    }
+]
