@@ -2,7 +2,7 @@ Very quick script to flag our outdated dependencies and create the associated JI
 
 # Requirements
 
-You need to have `python` to run the scripts and `maven` to get your top level dependencies. 
+You need to have `python 3` to run the scripts and `maven` to get your top level dependencies. 
 
 # Use it
 
