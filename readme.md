@@ -12,7 +12,7 @@ You need to have `python` to run the scripts and `maven` to get your top level d
 
 # Outcome
 
-- It will create an **epic** which represents this executations.
+- It will create an **epic** which represents this executions.
 - This epic will have **stories**
 - Each story will be created per **group id**.
 - In the description you will find **all dependencies** of this group id
